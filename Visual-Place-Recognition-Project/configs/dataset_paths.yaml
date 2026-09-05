@@ -1,0 +1,5 @@
+datasets:
+  GSV-XS: data/GSV-XS
+  Tokyo-XS: data/Tokyo-XS
+  SF-XS: data/SF-XS
+  SVOX: data/SVOX
