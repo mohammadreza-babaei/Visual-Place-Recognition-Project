@@ -38,3 +38,12 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+# VPR generated analysis outputs
+baseline/matching_outputs/
+baseline/inlier_analysis_outputs/
+baseline/threshold_analysis_outputs/
+baseline/adaptive_outputs/
+baseline/adaptive_reranking_outputs/
+
+baseline/image-matching-models/
+baseline/adaptive_results.csv
